@@ -14,14 +14,14 @@
 ### Financial Status
 - No known debts
 
-### Marital Stats
--Divorced (Jenny Castelle)
+### Marital Status
+- Divorced (Jenny Castelle)
 
 ### Political Affiliation
 - Independent
 
 ### Toxicology Report
-- None in system at time
+- Being processed at the request of Virginia Castelle, no foul play determined by investigator
 
 ### Employment
 - Running Politician
@@ -30,26 +30,24 @@
 - Madame Mary Deroulard (Mother)
 
 ### Residents in Household
-- Madame Mary Deroulard (Mother)
+- Madame Mary Deroulard 
 - Virginia Castelle 
 
-###
+### Night of his Death
+- Attended a party he was hosting in his home, found deceased in his Study the next morning by Virginia Castelle
 
-### Activities Prior to His Passing
+#### People in Attendance 
+Paul's 4 Assistants:
+- Maria
+- John
+- Roger
+- Muhammad
+Pharmacist Wilson
+Allard
+Virginia Castelle
+Madame Mary Deroulard
+Caterers
 
 
 
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-
-
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
