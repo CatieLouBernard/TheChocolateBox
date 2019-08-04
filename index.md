@@ -1,38 +1,41 @@
-##Electronic Case File of Paul Deroulard
+## Electronic Case File of Paul Deroulard
 
-###Description
-46 years old
-Brown/Grey Hair 
-5'11
-140 lbs
-No none health conditions
+### Description
+- 46 years old
+- Brown/Grey Hair 
+- 5'11
+- 140 lbs
+- No known health conditions
 
-###Cause of Death
-Heart Attack
-Fall
+### Cause of Death
+- Heart Attack
+- Fall
 
-###Financial Status
-No none debts
+### Financial Status
+- No known debts
 
-###Political Affiliation
-Independent
+### Marital Stats
+-Divorced (Jenny Castelle)
 
-###Toxicology Report
-None in system at time
+### Political Affiliation
+- Independent
 
-###Employment
-Running Politician
+### Toxicology Report
+- None in system at time
 
-###Living Relatives
-Madame Mary Deroulard (Mother)
+### Employment
+- Running Politician
 
-###Residents in Household
-Madame Mary Deroulard (Mother)
-Virginia Castelle 
+### Living Relatives
+- Madame Mary Deroulard (Mother)
+
+### Residents in Household
+- Madame Mary Deroulard (Mother)
+- Virginia Castelle 
 
 ###
 
-###Activities Prior to His Passing
+### Activities Prior to His Passing
 
 
 
@@ -42,20 +45,11 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
 
