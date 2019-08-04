@@ -36,17 +36,17 @@
 ### Night of his Death
 - Attended a party he was hosting in his home, found deceased in his Study the next morning by Virginia Castelle
 
-#### People in Attendance 
+#### People Verified in Attendance 
 Paul's 4 Assistants:
-- Maria
-- John
-- Roger
-- Muhammad
-Pharmacist Wilson
-Allard
-Virginia Castelle
-Madame Mary Deroulard
-Caterers
+- Maria (PA1)
+- John (PA2)
+- Roger (PA3)
+- Muhammad (PA4)
+- Pharmacist Wilson
+- Allard
+- Virginia Castelle
+- Madame Mary Deroulard
+- Caterers
 
 
 
