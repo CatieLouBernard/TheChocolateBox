@@ -15,7 +15,7 @@
 - No known debts
 
 ### Marital Status
-- Divorced (Jenny Castelle)
+- Divorced (Jennifer "Jenny" Castelle)
 
 ### Political Affiliation
 - Independent
